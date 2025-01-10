@@ -8,7 +8,7 @@ packages:
   gitUsername: PoojaAnandGit
   gitBranch: main
 services:
-- serviceName: project.testp14.integrations:e111
+- serviceName: project.testp14.integrations:testEdge
   packages:
   - name: TestP14Project
     version: "1.0"
