@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestP14Project
+  gitServerName: test1
+  gitUrl: https://github.com/PoojaAnandGit
+  gitUsername: PoojaAnandGit
+  gitBranch: main
